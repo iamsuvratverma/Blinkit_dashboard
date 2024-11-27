@@ -12,10 +12,14 @@ This project involves the comprehensive analysis and visualization of Blinkit sa
 #### Objectives:  
 - Provide actionable insights for decision-making and strategic planning.  
 - Enable stakeholders to identify trends and optimize outlet performance.  
-- Deliver a centralized view of data for efficient monitoring.  
+- Deliver a centralized view of data for efficient monitoring.
 
 #### Tools Used:  
 - **Power BI**: For creating dynamic, interactive dashboards.  
 - **Data Cleaning and Preparation**: Data was preprocessed to ensure quality and accuracy.  
 
 This project showcases the power of BI tools in turning raw data into meaningful insights and is a useful resource for anyone looking to explore sales and geospatial analysis with Power BI.  
+
+![image](https://github.com/user-attachments/assets/c74a2797-5e09-41b5-b741-5e5dc718d9fa)
+
+
